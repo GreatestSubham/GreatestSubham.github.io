@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Political Science teacher currently instructing graduate and Post Graduate students at Department of Political Science, Vikram Dev University, Odisha. My academic work bridges the gap between local governance and grand strategy.
+I am Dr. Subham Tripathy, an Assistant Professor (Guest) at the Department of Political Science, Vikram Dev University, Jeypore, Odisha. I recently completed my PhD as a UGC Senior Research Fellow in Political Science from Gangadhar Meher University, Sambalpur, where my research specialized in Security Dynamics in the Indo-Pacific Region, assessing the impact of Sino-Indian rivalry on regional security in the 21st century.
 
-My research primarily explores Indo-Pacific security dynamics, with a strong focus on Sino-Indian rivalry, maritime security, and regional stability. I am passionate about international relations theories, geopolitics, strategy, and warfare studies, critically examining global security challenges and Asia's power shifts. 
+My academic work bridges the gap between local governance and grand strategy. My research primarily explores Indo-Pacific security dynamics, with a strong focus on Sino-Indian relations, maritime security, and regional stability. I am passionate about international relations theories, geopolitics, strategy, and warfare studies, critically examining global security challenges and Asia's power shifts. 
 
-Beyond international relations, I maintain a deep academic interest in Marxist and critical political theories—specifically the concepts of Antonio Gramsci and Jürgen Habermas. 
+Beyond international relations, I maintain a deep academic interest in Marxist and critical political theories—specifically the concepts of Antonio Gramsci and Jürgen Habermas. I also engage in localized demographic and socioeconomic research concerning the Kondh Tribe population within the blocks of the Kalahandi District.
 
-My work has been featured in various journals and platforms, including *ShodhPatra*, *Gandhi Marg*, and *Hegemoniq*.
+My work has been featured in various peer-reviewed journals, books, and platforms, including *Res Militaris*, *Gandhi Marg*, and *Hegemoniq*, and I currently serve as an Emerging Scholar for the Indo-Pacific Studies Centre, Canberra.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
